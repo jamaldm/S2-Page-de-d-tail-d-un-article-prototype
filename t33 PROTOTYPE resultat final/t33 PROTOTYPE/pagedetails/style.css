@@ -1,0 +1,61 @@
+body {
+  
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #0F172A;
+  color: white;
+  padding-bottom: 25px;
+
+}
+.logo {
+  text-align: center;
+}
+
+.swapenbleu {
+  color: blue;
+  padding-left: 10px;
+}
+
+.introskillswap h2 {
+padding: 90px 0px 0px 100px;
+}
+.introskillswap p {
+  padding:0px 0px 0px 60px ;
+}
+
+.cite1 {
+  color: white;
+ margin-right: 30px;
+ margin-left: 12px;
+  background-color: blue;
+  padding: 5px 20px;
+  border-radius: 5px;
+  font-size: large;
+  text-decoration: none;
+}
+.cite2 {
+  color: white;
+ margin-right: 20px;
+  background-color: blue;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: large;
+  text-decoration: none;
+}
+.cite3 {
+  color: white;
+ margin-right: 20px;
+  background-color: blue;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: large;
+  text-decoration: none;
+}
+.introskillswap img {
+  height: 450px;
+  width: 800px;
+  float: right;
+  margin-top: -60px;
+  margin-right: 9px;
+  border-radius: 20px;
+  border: 5px solid;
+}
